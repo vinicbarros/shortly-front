@@ -5,6 +5,9 @@ This is the FrontEnd of Shortly api! <br><br>
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
 <br />
 
+## Deploy:
+http://shortly-front-seven.vercel.app/
+
 ## About
 
 This site helps you to manage your shorten urls and share with your friends! Below are the implemented features:
