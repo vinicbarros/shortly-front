@@ -5,12 +5,6 @@ This is the FrontEnd of Shortly api! <br><br>
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
 <br />
 
-<p align="center">
-   <a href="https://github.com/vinicbarros/shortly-back">
-      <img src="./assets/images/databaseImage.png" align="center" />
-  </a>
-</p>
-
 ## About
 
 This site helps you to manage your shorten urls and share with your friends! Below are the implemented features:
