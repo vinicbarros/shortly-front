@@ -8,14 +8,14 @@
 <br>
 <div align=center style="display:flex; justify-content: center; gap:5%">
     <a href="https://github.com/vinicbarros/shortly-back">
-      <img src="./assets/images/databaseImage.png" align="center" />
+      <img src="https://i.imgur.com/BRfKGfz.png" align="center" style="width: 400px" />
+      <img src="https://i.imgur.com/za3gnY9.png" align="center" style="height: 400px" />
   </a>
 </div> 
 
-This is the FrontEnd of Shortly api! <br><br>
+ <br><br>
+ 
 ![GitHub Org's stars](https://img.shields.io/github/stars/vinicbarros/shortly-back?style=social) ![GitHub Org's stars](https://img.shields.io/github/followers/vinicbarros?style=social)
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
-<br />
 
 ## Deploy:
 http://shortly-front-seven.vercel.app/
@@ -43,3 +43,16 @@ The following tools and frameworks were used in the construction of the project:
    <img style='margin: 5px;' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
    <img style='margin: 5px;' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'>
 </p>
+
+## Contact
+
+Feel free to contact me in Linkedin!
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
+[linkedin-url]: https://www.linkedin.com/in/ovinibarros/
+
